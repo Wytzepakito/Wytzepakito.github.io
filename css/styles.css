@@ -1,0 +1,123 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: 'Montserrat Alternates', sans-serif;
+
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  margin: 50px auto 0 auto;
+  font-size: 90px;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Piedra', cursive;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Piedra', cursive;
+  color: #11999E;
+}
+hr {
+ border: dotted grey 6px;
+ border-bottom: none;
+ width: 4%;
+  margin: 100px auto 100px auto;
+}
+
+
+a{
+  color:#11999E;
+}
+.programmer-subtitle{
+  font-weight: normal;
+  line-height: 2;
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.profile{
+  margin-top: 50px;
+}
+
+.top-container {
+  background-color: #ddf3f5;
+  position: relative;
+  padding-top:100px;
+}
+
+.middle-container {
+background-color: white;
+padding-bottom: 100px;
+}
+.contact-me{
+  line-height:3;
+}
+
+.bottom-container {
+  background-color: #01a9b4;
+height: 200px;
+text-align: center;
+padding-top:50px;
+
+
+
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 600px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 600px;
+  top: 50px;
+}
+.programming-image{
+  border-radius: 50%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.waterpolo-image{
+  border-radius: 50%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #7aa8b7;
+  border-radius: 6px;
+  outline: none;
+}
+
+
+.footer-link{
+  margin: 30px;
+  color: #086972;
+}
+.footer-date {
+  color: white;
+  padding-top: 20px;
+}
